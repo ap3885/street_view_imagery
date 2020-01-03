@@ -1,0 +1,2 @@
+model_checkpoint_path: "svhn_convnet_grey_our_v2"
+all_model_checkpoint_paths: "svhn_convnet_grey_our_v2"
